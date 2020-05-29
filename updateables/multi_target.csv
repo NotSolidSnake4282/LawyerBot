@@ -1,0 +1,6 @@
+Atk Type,Disadv Summary
+Melee Atk,Disadv = number of targets.
+Ranged Atk,Disadv = number of targets. Max 5 targets. Must be within a 25’ square.
+Cube,Disadv = 1 per 5’ of length of cube.
+Line,Disadv = 1 per 5’x10’x10’ line.
+Cone,Disadv = 1 per 5’ length of cone.

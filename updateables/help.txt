@@ -1,0 +1,7 @@
+%bane bane_name : bane lookup
+%boon boon_name : boon lookup
+%feat feat_name : feat lookup
+
+%np-attack-range : summon Non-Physical Attack Range table
+%multi-target : summon Multi-Targeting Summary table
+%cr-boon : summon Boon Challenge Rating table
